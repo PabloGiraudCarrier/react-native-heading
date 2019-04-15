@@ -20,8 +20,6 @@ import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
-import com.joshblour.discovery.BLEUser;
-import com.joshblour.discovery.Discovery;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
